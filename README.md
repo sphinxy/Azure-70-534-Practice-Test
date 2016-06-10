@@ -1,4 +1,4 @@
-# Azure 70-534 Certification Practice Test
+# Azure 70-534 Certification Practice Test for dumpers
 
 Test your knowledge of Azure with this collection of practice test questions for the Microsoft Azure [70-534](https://www.microsoft.com/learning/en-us/exam-70-534.aspx) Certification - Architecting Microsoft Azure Solutions.
 
